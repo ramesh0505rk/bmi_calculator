@@ -36,7 +36,7 @@ class ResultPage extends StatelessWidget {
                 margin: EdgeInsets.all(40),
                 decoration: BoxDecoration(
                   borderRadius: BorderRadius.circular(30),
-                  color: Color(0xFF1D1F33),
+                  color: Color(0xFF1D1F34),
                 ),
                 child: Center(
                   child: Column(
